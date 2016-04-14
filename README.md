@@ -3,7 +3,7 @@
 
 Names are grouped into categories, one file per category, one name per line.
 
-Unless they are super cool I avoid listing names longer than 8 characters.
+Unless they are super cool I avoid listing names longer than 8 characters (they are meant to be quickly typed).
 
 Feel free to add more :)
 
